@@ -13,30 +13,30 @@
 > Palavras reservadas;
 > Operadores aritméticos;
 > Operadores lógicos; 
-> Estrutura de controle
+> Estrutura de controle:
 > 
 > -       IF/ELSE;
 > -       Switch-Case;
 > -       While;
-> -       Do-while
-> -       For
+> -       Do-while;
+> -       For;
 > 
 > Operador ternário;
 
 
 **3-Orientação a Objeto:** 
 
-> Definição POO 
-> Classes e objetos
+> Definição POO;
+> Classes e objetos;
 > Criando classe e seus atributos;
 > Instanciado um objeto;
 > Acessando atributo de um objeto;
 > Criando e chamando métodos;
 > Trabalhando com argumentos;
-> O objeto this
+> O objeto this;
 > Construtores;
 > Encapsulamento; 
-> Modificadores de acesso 
+> Modificadores de acesso:
 > 
 > -     Public;
 > -     Private;
@@ -49,4 +49,4 @@
 > Sobrecarga;
 > Polimorfismo;
 > Classes abstratas;
-> Interfaces
+> Interfaces;
