@@ -30,13 +30,13 @@
 * Vetores;
 * Matriz
 * Convenção de código;
-* Garbage collector
+* Garbage Collector
 
 `**3-Orientação a Objeto:** `
 
 * Definição POO;
 * Classe/Objeto;
-* Atributos da classe;
+* Atributos da Classe;
 * Métodos da Classe; 
 * Construtores;
 * Modificadores de acesso; 
@@ -45,7 +45,7 @@
 * Herança;
 * Polimorfismo;
 * Sobrecarga;
-* Classes internas;
+* Classes Internas;
 * Abstração;
 * Interface;
 * Classes Enum;
