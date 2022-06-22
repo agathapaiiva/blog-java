@@ -1,52 +1,52 @@
-# Blog Java
 
-**1-Introdução:**
+![java-icon](https://user-images.githubusercontent.com/40298927/174925141-07490c3f-d64f-4db3-b6b5-e32329127264.png) 
 
-> A historia do Java;
-> Evoluções do Java;
+# **Bem vindo ao Blog-Java wiki!**
 
+`**1-Introdução:**`
 
-**2-Fundamentos da linguagem:**
-
-> Tipos primitivos;
-> Variáveis e seus escopos;
-> Palavras reservadas;
-> Operadores aritméticos;
-> Operadores lógicos; 
-> Estrutura de controle:
-> 
-> -       IF/ELSE;
-> -       Switch-Case;
-> -       While;
-> -       Do-while;
-> -       For;
-> 
-> Operador ternário;
+* A história do Java;
+* Evoluções do Java;
+* Timeline Java 
+* Sobre JVM | JDK | JRE;
+* Sobre .java | .class | .jar;  
+* Sobre byte code;
 
 
-**3-Orientação a Objeto:** 
+`**2-Fundamentos da linguagem:**`
 
-> Definição POO;
-> Classes e objetos;
-> Criando classe e seus atributos;
-> Instanciado um objeto;
-> Acessando atributo de um objeto;
-> Criando e chamando métodos;
-> Trabalhando com argumentos;
-> O objeto this;
-> Construtores;
-> Encapsulamento; 
-> Modificadores de acesso:
-> 
-> -     Public;
-> -     Private;
-> -     Default;
-> -     Static;
-> -     Final;
-> -     Protected;
-> 
-> Herança;
-> Sobrecarga;
-> Polimorfismo;
-> Classes abstratas;
-> Interfaces;
+* Palavras reservadas;
+* Variáveis e seus escopos;
+* Constantes;
+* Tipos primitivos;
+* Operadores aritméticos;
+* Operadores lógicos; 
+* Operador ternário;
+* IF/Else;
+* Switch-Case;
+* While;
+* Do-while;
+* For;
+* Vetores;
+* Matriz
+* Convenção de código;
+* Garbage collector
+
+`**3-Orientação a Objeto:** `
+
+* Definição POO;
+* Classe/Objeto;
+* Atributos da classe;
+* Métodos da Classe; 
+* Construtores;
+* Modificadores de acesso; 
+* Encapsulamento;
+* Pacote Java API;
+* Herança;
+* Polimorfismo;
+* Sobrecarga;
+* Classes internas;
+* Abstração;
+* Interface;
+* Classes Enum;
+* Exceptions;
