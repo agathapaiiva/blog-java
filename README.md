@@ -6,14 +6,17 @@
 !<a href="https://github.com/agathapaiiva/blog-java/wiki/Cap%C3%ADtulo-01-%7C-Introdu%C3%A7%C3%A3o">`**1-Introdução:**` </a>
 
 * A história do Java;
-* Evoluções do Java;
-* Timeline Java 
 * Sobre JVM | JDK | JRE;
 * Sobre .java | .class | .jar;  
 * Sobre byte code;
 
+`**2-Evoluções do Java**`
 
-`**2-Fundamentos da linguagem:**`
+* Evoluções do Java a partir da versão 8;
+* Timeline Java partir da versão 8;
+* Abordando as princiapis mudanças entre as verções citadas;
+
+`**3-Fundamentos da linguagem:**`
 
 * Palavras reservadas;
 * Variáveis e seus escopos;
@@ -22,6 +25,9 @@
 * Operadores aritméticos;
 * Operadores lógicos; 
 * Operador ternário;
+
+`**4-Iremos aprender sobre:**`
+
 * IF/Else;
 * Switch-Case;
 * While;
@@ -30,7 +36,10 @@
 * Vetores;
 * Matriz
 * Convenção de código;
-* Garbage Collector
+
+`**4-Garbage:**`
+
+* Garbage Collector;
 
 `**3-Orientação a Objeto:** `
 
