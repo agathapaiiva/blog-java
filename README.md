@@ -14,7 +14,7 @@
 
 * Evoluções do Java a partir da versão 8;
 * Timeline Java partir da versão 8;
-* Abordando as principais mudanças entre as verções citadas;
+* Abordando as principais mudanças entre as versões citadas;
 
 `**3-Fundamentos da linguagem:**`
 
