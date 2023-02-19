@@ -16,7 +16,7 @@
 * Timeline Java partir da versão 8;
 * Abordando as principais mudanças entre as versões citadas;
 
-`**3-Fundamentos da linguagem:**`
+<a href="https://github.com/agathapaiiva/blog-java/wiki/Cap%C3%ADtulo-03-%7C-Fundamentos-da-linguagem">`**3-Fundamentos da linguaguem:**` </a>
 
 * Palavras reservadas;
 * Variáveis e seus escopos;
