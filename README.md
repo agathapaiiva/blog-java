@@ -24,7 +24,7 @@
 * Tipos primitivos;
 * Operadores aritméticos;
 * Operadores lógicos; 
-* Operador ternário;
+* Entrada de dados;
 
 `**4-Iremos aprender sobre:**`
 
@@ -36,7 +36,7 @@
 * Vetores;
 * Matriz
 * Convenção de código;
-
+* Operador ternário;
 `**5-Garbage:**`
 
 * Garbage Collector;
