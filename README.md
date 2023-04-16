@@ -23,11 +23,10 @@
 * Constantes;
 * Tipos primitivos;
 * Operadores aritméticos;
-* Operadores lógicos; 
 * Entrada de dados;
 
 `**4-Iremos aprender sobre:**`
-
+* Operadores lógicos; 
 * IF/Else;
 * Switch-Case;
 * While;
