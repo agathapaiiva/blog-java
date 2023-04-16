@@ -37,9 +37,8 @@
 * Matriz
 * Convenção de código;
 * Operador ternário;
-`**5-Garbage:**`
 
-* Garbage Collector;
+`**5-Garbage:**`
 
 `**6-Orientação a Objeto:** `
 
