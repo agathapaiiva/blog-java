@@ -26,7 +26,7 @@
 * Entrada de dados;
 
 `**4-Iremos aprender sobre:**`
-* Operadores lógicos; 
+* Tabela verdade e Operadores lógicos; 
 * IF/Else;
 * Switch-Case;
 * While;
