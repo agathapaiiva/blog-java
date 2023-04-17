@@ -25,7 +25,7 @@
 * Operadores aritméticos;
 * Entrada de dados;
 
-`**4-Iremos aprender sobre:**`
+<a href="https://github.com/agathapaiiva/blog-java/wiki/Editing-Cap%C3%ADtulo-04-%7C-Iremos-aprender-sobre">`**4-Iremos aprender sobre:**` </a>
 * Operadores lógicos; 
 * IF/Else;
 * Switch-Case;
