@@ -25,8 +25,9 @@
 * Operadores aritméticos;
 * Entrada de dados;
 
-<a href="https://github.com/agathapaiiva/blog-java/blob/f7d72cd3a75fd69cc5a26525cc9b3d095e79e9f4/docs/capitulo_04-operadores.md">`**4-Iremos aprender sobre:**` </a>
-* Operadores; 
+`**4-Iremos aprender sobre:**`
+
+* <a href="https://github.com/agathapaiiva/blog-java/blob/f7d72cd3a75fd69cc5a26525cc9b3d095e79e9f4/docs/capitulo_04-operadores.md"> Operadores;</a>
 * IF/Else;
 * Switch-Case;
 * While;
