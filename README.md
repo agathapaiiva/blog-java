@@ -3,7 +3,7 @@
 
 # **Bem vindo ao Blog-Java wiki!**
 
-<a href="https://github.com/agathapaiiva/blog-java/wiki/Cap%C3%ADtulo-01-%7C-Introdu%C3%A7%C3%A3o">`**1-Introdução:**` </a>
+<a href="https://github.com/agathapaiiva/blog-java/blob/main/docs/capitulo_01.md">`**1-Introdução:**` </a>
 
 * A história do Java;
 * Sobre JVM | JDK | JRE;
