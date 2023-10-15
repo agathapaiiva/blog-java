@@ -111,4 +111,4 @@ Agora iremos aprender sobre os **Operadores Relacionais** ou de comparação com
 
 _Fontes: Vídeos aulas Isiflix_ e https://dicasdeprogramacao.com.br/
 
-:[👈] <a href="https://github.com/agathapaiiva/blog-java"> voltar para página anterior </a>
+:[👈] <a href="https://github.com/agathapaiiva/blog-java/blob/0e736414432447d6e26f0ab5a69d34dc20f478a5/README.md"> voltar para página anterior </a>
