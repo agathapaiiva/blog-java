@@ -3,7 +3,7 @@
 
 # **Bem vindo ao Blog-Java wiki!**
 
-<a href="https://github.com/agathapaiiva/blog-java/wiki/Cap%C3%ADtulo-01-%7C-Introdu%C3%A7%C3%A3o">`**1-Introdução:**` </a>
+<a href="https://github.com/agathapaiiva/blog-java/blob/b22a4cb93d792528ecdd5e06a2e947b02bc258e7/docs/capitulo_01.md">`**1-Introdução:**` </a>
 
 * A história do Java;
 * Sobre JVM | JDK | JRE;
@@ -16,7 +16,7 @@
 * Timeline Java partir da versão 8;
 * Abordando as principais mudanças entre as versões citadas;
 
-<a href="https://github.com/agathapaiiva/blog-java/wiki/Cap%C3%ADtulo-03-%7C-Fundamentos-da-linguagem">`**3-Fundamentos da linguaguem:**` </a>
+<a href="https://github.com/agathapaiiva/blog-java/blob/f7d72cd3a75fd69cc5a26525cc9b3d095e79e9f4/docs/capitulo_03.md">`**3-Fundamentos da linguaguem:**` </a>
 
 * Palavras reservadas;
 * Variáveis e seus escopos;
@@ -25,8 +25,9 @@
 * Operadores aritméticos;
 * Entrada de dados;
 
-<a href="https://github.com/agathapaiiva/blog-java/wiki/Cap%C3%ADtulo-04-%7C-Iremos-aprender-sobre">`**4-Iremos aprender sobre:**` </a>
-* Operadores; 
+`**4-Iremos aprender sobre:**`
+
+* <a href="https://github.com/agathapaiiva/blog-java/blob/f7d72cd3a75fd69cc5a26525cc9b3d095e79e9f4/docs/capitulo_04-operadores.md"> Operadores;</a>
 * IF/Else;
 * Switch-Case;
 * While;
