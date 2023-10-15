@@ -36,4 +36,4 @@ Importante ressaltar que a linguagem JAVA pertence hoje a empresa Oracle, desde 
 * `JRE (Java Runtime Environment)`: Já JRE é a sigla para Java Runtime Environment. O Ambiente de Execução do Java irá te fornecer as bibliotecas padrões do Java para o JDK compilar o código e para a JVM executar o programa.
 
 
-:[👈] <a href="https://github.com/agathapaiiva/blog-java"> voltar para página anterior </a>
+:[👈] <a href="https://github.com/agathapaiiva/blog-java/blob/0e736414432447d6e26f0ab5a69d34dc20f478a5/README.md"> voltar para página anterior </a>
