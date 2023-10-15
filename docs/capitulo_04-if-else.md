@@ -49,11 +49,11 @@ public class InstrucaoIF {
 
 **Resultado do Código || APROVADO**
 
-![Alt text](image.png)
+![Alt text](/docs//imgs/image.png)
 
 **Resultado do Código || REPROVADO**
 
-![Alt text](image-2.png)
+![Alt text](/docs//imgs/image-2.png)
 
 
 **`IF's ANINHADOS OU ENCADEADOS`**
