@@ -22,7 +22,7 @@ SWITCH(EXPRESSÃO){
 }
 ~~~
 
-Como podemos verificar a estrutura switch se inicia através de uma expressão o qual é verificada sucessivamente em uma lista de constante. Quando uma ocorrência é encontrada a seuqência de instruções associada a essa ocorrência é executada. Vamos analisar o exemplo a seguir:
+Como podemos verificar a estrutura switch se inicia através de uma expressão o qual é verificada sucessivamente em uma lista de constante. Quando uma ocorrência é encontrada a sequência de instruções associada a essa ocorrência é executada. Vamos analisar o exemplo a seguir:
 
 ~~~java
 import java.util.Scanner;
