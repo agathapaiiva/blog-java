@@ -4,6 +4,6 @@ Capítulo 02 | Evoluções do Java
 
 [em construção]
 
-_Fontes: - Book Começando a Programar em Java para Leigos; Book Java para Iniciantes; Vídeos aulas Isiflix_
+_Fontes: 
 
 :[👈] <a href="https://github.com/agathapaiiva/blog-java/blob/0e736414432447d6e26f0ab5a69d34dc20f478a5/README.md"> voltar para página anterior </a>

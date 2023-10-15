@@ -73,6 +73,6 @@ Alguns pontos deve ser considerados:
 
 Quando uma ocorrência é encontrada, as instruções associadas a esse **case** são  executadas até o **break** ser alcançado ou, no caso **default** ou do último  case, até  o fim de  switch seralcançado.    
 
-_Fontes: Vídeos aulas Isiflix_ e https://dicasdeprogramacao.com.br/
+_Fontes: Vídeos aulas Isiflix_ e Livro Java para iniciantes 6ª Edição
 
 :[👈] <a href="https://github.com/agathapaiiva/blog-java"> voltar para página anterior </a>
