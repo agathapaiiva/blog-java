@@ -28,7 +28,7 @@
 `**4-Iremos aprender sobre:**`
 
 * <a href="https://github.com/agathapaiiva/blog-java/blob/f7d72cd3a75fd69cc5a26525cc9b3d095e79e9f4/docs/capitulo_04-operadores.md"> Operadores;</a>
-* IF/Else;
+* <a href="https://github.com/agathapaiiva/blog-java/blob/f0bac34d073c75f7c2ff4c5dc558ddd34919430b/docs/capitulo_04-if-else.md"> IF/Else;</a>
 * Switch-Case;
 * While;
 * Do-while;
