@@ -1,4 +1,6 @@
-![java-icon](https://user-images.githubusercontent.com/40298927/174925141-07490c3f-d64f-4db3-b6b5-e32329127264.png) >>> Capítulo 04 | Iremos aprender sobre:
+![java-icon](https://user-images.githubusercontent.com/40298927/174925141-07490c3f-d64f-4db3-b6b5-e32329127264.png) 
+
+Capítulo 04 | Iremos aprender sobre:
 
 **`Operadores Lógicos`**
 
@@ -109,4 +111,4 @@ Agora iremos aprender sobre os **Operadores Relacionais** ou de comparação com
 
 _Fontes: Vídeos aulas Isiflix_ e https://dicasdeprogramacao.com.br/
 
-:[👈] <a href="https://github.com/agathapaiiva/blog-java/wiki"> voltar para página anterior </a>
+:[👈] <a href="https://github.com/agathapaiiva/blog-java"> voltar para página anterior </a>

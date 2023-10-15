@@ -1,4 +1,6 @@
-![java-icon](https://user-images.githubusercontent.com/40298927/174925141-07490c3f-d64f-4db3-b6b5-e32329127264.png)  >>> Capítulo 01 | Introdução
+![java-icon](https://user-images.githubusercontent.com/40298927/174925141-07490c3f-d64f-4db3-b6b5-e32329127264.png)  
+
+Capítulo 01 | Introdução
 
 <p> 
 A linguagem Java pode ser definida como uma linguagem de Programação Orientada a Objetos que é amplamente utilizada para o desenvolvimento de software, jogos, computação em nuvem, big data, inteligência artificial e internet das coisas. 
@@ -34,4 +36,4 @@ Importante ressaltar que a linguagem JAVA pertence hoje a empresa Oracle, desde 
 * `JRE (Java Runtime Environment)`: Já JRE é a sigla para Java Runtime Environment. O Ambiente de Execução do Java irá te fornecer as bibliotecas padrões do Java para o JDK compilar o código e para a JVM executar o programa.
 
 
-:[👈] <a href="https://github.com/agathapaiiva/blog-java/wiki"> voltar para página anterior </a>
+:[👈] <a href="https://github.com/agathapaiiva/blog-java"> voltar para página anterior </a>

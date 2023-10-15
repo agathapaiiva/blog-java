@@ -1,4 +1,6 @@
-![java-icon](https://user-images.githubusercontent.com/40298927/174925141-07490c3f-d64f-4db3-b6b5-e32329127264.png) >>> Capítulo 03 | Fundamentos da linguagem
+![java-icon](https://user-images.githubusercontent.com/40298927/174925141-07490c3f-d64f-4db3-b6b5-e32329127264.png) 
+
+Capítulo 03 | Fundamentos da linguagem
 
 <p> Na base de qualquer linguagem de programação estão seus tipos de dados e operadores, e JAVA não é uma exceção. Esses elementos definem os limites de uma linguagem e determina o tipo de tarefas às quais ela pode ser aplicada dentro de um sistema/aplicação. Os tipos de dados são especialmente importantes em JAVA porque a mesma é considerada uma linguagem fortemente tipada.</p>
 
@@ -82,4 +84,4 @@ A seguir podemos vê na prática como podemos utilizar do recurso da Classe Scan
 
 _Fontes: - Book Começando a Programar em Java para Leigos; Book Java para Iniciantes; Vídeos aulas Isiflix_
 
-:[👈] <a href="https://github.com/agathapaiiva/blog-java/wiki"> voltar para página anterior </a>
+:[👈] <a href="https://github.com/agathapaiiva/blog-java"> voltar para página anterior </a>
